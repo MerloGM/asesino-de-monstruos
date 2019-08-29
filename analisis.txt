@@ -1,0 +1,10 @@
+2 barras de vida ({{personaje.vida}})
+4 botones con methods (los de ataque y curacion modifican el atributo vida de cada personaje)
+
+data: personajes
+
+methods: 1 por cada boton y el que genera los eventos
+array de eventos que se actualiza cuando se realiza un ataque/curacion
+
+
+ataque -> paso por parametro personaje
